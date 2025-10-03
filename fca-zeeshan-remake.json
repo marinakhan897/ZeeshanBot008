@@ -1,1 +1,119 @@
-["Facebook Chat Api remade by Zeeshan Altaf"]
+[
+    {
+        "key": "dbln",
+        "value": "%7B%2261577631662713%22%3A%22kaKgwVDn%22%2C%2261578578084055%22%3A%22j6AJ8Tnl%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2025-10-03T08:59:21.903Z",
+        "lastAccessed": "2025-10-03T08:59:21.910Z"
+    },
+    {
+        "key": "datr",
+        "value": "Zda_aDuIn8U_XpPLp8eDQCWA",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-03T08:59:21.910Z",
+        "lastAccessed": "2025-10-03T08:59:21.910Z"
+    },
+    {
+        "key": "sb",
+        "value": "Zda_aGB_odWebkzMzsOyySvO",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-03T08:59:21.910Z",
+        "lastAccessed": "2025-10-03T08:59:21.910Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B656x360x2",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-03T08:59:21.910Z",
+        "lastAccessed": "2025-10-03T08:59:21.910Z"
+    },
+    {
+        "key": "pas",
+        "value": "61577631662713%3AOc8tRNS6pw%2C61578578084055%3AIX1aAtO4PP",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-03T08:59:21.910Z",
+        "lastAccessed": "2025-10-03T08:59:21.910Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_US",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-03T08:59:21.910Z",
+        "lastAccessed": "2025-10-03T08:59:21.910Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-03T08:59:21.910Z",
+        "lastAccessed": "2025-10-03T08:59:21.910Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-03T08:59:21.910Z",
+        "lastAccessed": "2025-10-03T08:59:21.910Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61578578084055",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-03T08:59:21.910Z",
+        "lastAccessed": "2025-10-03T08:59:21.910Z"
+    },
+    {
+        "key": "xs",
+        "value": "47%3Az37A0zci-1bz7A%3A2%3A1759481062%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-03T08:59:21.910Z",
+        "lastAccessed": "2025-10-03T08:59:21.911Z"
+    },
+    {
+        "key": "fr",
+        "value": "0FrtaiU7VNjDWSfVq.AWfzl9_CWbJ5RpV5k60V6WO4zxH68HF_RQDtM2VPPULPgeR41yY.Bov9Zl..AAA.0.0.Bo341P.AWfoCyxQCXTMb0JOjKymWiJiPe0",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-03T08:59:21.911Z",
+        "lastAccessed": "2025-10-03T08:59:21.911Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "100733824%3BT%3A29324686",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-03T08:59:21.911Z",
+        "lastAccessed": "2025-10-03T08:59:21.911Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2941%3Btimestamp%3A1759481167%3BCRCM%3A-606604320",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-10-03T08:59:21.911Z",
+        "lastAccessed": "2025-10-03T08:59:21.911Z"
+    }
+]
